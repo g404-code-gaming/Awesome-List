@@ -45,7 +45,7 @@ Autre Idée (Jeux type HeartStone).
 
 # Code Gaming Année 1 simplifié 
 
-## séance 1 
+## Séance 1 
   - Présentation :
     - Tour d'horizon des métiers du jeux vidéos
     - Version du jeu fini 
