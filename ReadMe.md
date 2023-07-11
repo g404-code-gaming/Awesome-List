@@ -45,35 +45,35 @@ Autre Idée (Jeux type HeartStone).
 
 # Code Gaming Année 1 simplififié 
 
-# séance 1 
+## séance 1 
   - Présentation :
     - Tour d'horizon des métiers du jeux vidéos
     - Version du jeu fini 
     - Possibilité de jouer pour comprendre le jeu
   - Installation de unity et prise en main des PC
   - Présentation du plan d'action (stratégie pour la création du jeux)
-# Séance 2 / 3
+## Séance 2 / 3
    - Présentation : Unity qu'est ce que c'est ?, Les différents types d'assets   
    - Mise en place de l'environnement (création du projet)
    - Intégration du terrain ou cadre
    - Gestion de la caméra ou pas
 
-# Séance 4 / 5 / 6
+## Séance 4 / 5 / 6
   - Intégration d'assets 
 
-# Séance 7 / 8 / 9
+## Séance 7 / 8 / 9
   - Présentation : Colisions Evénements ...
   - Animation des assets 
   - Intégration des textures
    
-# Séance 10 / 11
+## Séance 10 / 11
   - Présentation : Sound Design qu'est ce que c'est ? 
   - Ajout et intégration d'assets Sonore
 
-# Séance 12 / 13 / 14
+## Séance 12 / 13 / 14
   - Présentation : Eclairage, Scène et Ambiance, Animations
   - Éclairage de base et création d'effets visuels simples
 
-# Séance 15 / 16 / 17 / 18 / 19 / 20
+## Séance 15 / 16 / 17 / 18 / 19 / 20
   - Présentation Game Design 
   - Ajouter les règles de game play du jeu 
