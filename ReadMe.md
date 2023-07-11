@@ -10,15 +10,6 @@ Projet à réaliser suivant tout les chapitres : ZooTycoon
        - Base Algorythmie
        - Syntaxe C#
        - Connaitre les modules de base de C#
-       - Paradigme de programation & POO
-    	    - Class vs Objets
-    	    - Synthaxe POO
-    	    - L'héritage
-    	    - La composition 
-    	    - L'encapsulation
-    	    - Les namespaces
-    	    - Les Typages
-    	    - Les Interfaces
 
 # Utilisation de l'éditeur Unity pour la création de projets de base + programmation de base avec C# et Unity
 	- Présentation de Unity (interface, l'utilisation des objets...)
