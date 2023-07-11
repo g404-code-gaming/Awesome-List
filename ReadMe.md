@@ -43,7 +43,7 @@ Autre Idée (Jeux type HeartStone).
 
 
 
-# Code Gaming Année 1 simplififié 
+# Code Gaming Année 1 simplifié 
 
 ## séance 1 
   - Présentation :
