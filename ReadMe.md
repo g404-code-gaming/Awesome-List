@@ -19,6 +19,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [GeometryDash](https://github.com/g404-code-gaming/GeometryDash_CodeGaming)
  - [Doom](https://github.com/g404-code-gaming/DoomLike_CodeGaming)
  - [PEGI Diapo](https://docs.google.com/presentation/d/1Gk98aRqTVBGvoG72nRFTbzsaAk6FrBno7NBpBULBJLI/edit#slide=id.g260c9f4d6eb_0_0)
+ - [Atelier PEGI (Kahoot!)](https://create.kahoot.it/share/atelier-pegi/04e7a851-f21d-4383-b710-853041826f14)
 
 
 
