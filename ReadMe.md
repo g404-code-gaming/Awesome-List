@@ -27,6 +27,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
 ## Unity
 
  - [Cour Intro Unity](https://github.com/g404-code-gaming/Cour-Intro-Unity)
+ - [MysteriesOfEgypt](https://github.com/g404-code-gaming/MysteriesOfEgypt)
 
 ## Divers
 
