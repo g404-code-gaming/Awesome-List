@@ -18,6 +18,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [Mini Zelda](https://github.com/g404-code-gaming/Zelda-Like-CodeGaming)
  - [GeometryDash](https://github.com/g404-code-gaming/GeometryDash_CodeGaming)
  - [Doom](https://github.com/g404-code-gaming/DoomLike_CodeGaming)
+ - [BirdHunt](https://github.com/g404-code-gaming/BirdHunt)
 
 ## GitHub
 
