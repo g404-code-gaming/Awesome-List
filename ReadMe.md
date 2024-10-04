@@ -1,3 +1,5 @@
+# Awesome-List
+
 Cet espace en construction est destiné à lister toutes les ressources indispensables pour préparer chaque séance et devenir un garagiste Code Gaming autonome.
 
 On y liste également une documentation interne qui est un sous-projet qui contiendra un guide de démarrage, des recommendations, conseils, et méthodes d'enseignement et d'animation.
