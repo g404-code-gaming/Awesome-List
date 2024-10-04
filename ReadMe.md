@@ -10,6 +10,10 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
 
 # Code Gaming 😎 Awesome List -- Sommaire
 
+## Administratif
+
+- [Création des comptes pour CodeGaming](https://github.com/g404-code-gaming/CreationCompteCodeGaming)
+
 ## GDevelop
 
  - Introduction à l'outil [GDevelop](#GDevelop)
