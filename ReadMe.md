@@ -56,6 +56,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [Planification et GDD](https://docs.google.com/presentation/d/1PUgHhzh8BHJMqLmBzIhaqJTye0G08-8oOYiy6McQBa0/edit#slide=id.g260c9f4d6eb_0_0)
  - [LevelDesign](https://docs.google.com/presentation/d/1TVOG5mHLvqOHfiQdj5TcNJFE3cqA1Tn_7630uMcSi9M/edit#slide=id.g260c9f4d6eb_0_0)
  - [MethodoTest](https://docs.google.com/presentation/d/1wsStZfm1KTXvRUcWLJdZgWLLjbzykceKpTb6BW1n5-w/edit#slide=id.g260c9f4d6eb_0_0)
+ - [Impact de la narration Interactive](https://docs.google.com/presentation/d/17bLVi8QgX4ioTiN0U-0IX077lDgf3pctmnfcjhd6IGQ/edit#slide=id.g29fbc71d577_0_21)
 
 # Contribuer
 
