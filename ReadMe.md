@@ -51,12 +51,11 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [PEGI Diapo](https://docs.google.com/presentation/d/1Gk98aRqTVBGvoG72nRFTbzsaAk6FrBno7NBpBULBJLI/edit#slide=id.g260c9f4d6eb_0_0)
  - [Atelier PEGI (Kahoot!)](https://create.kahoot.it/share/atelier-pegi/04e7a851-f21d-4383-b710-853041826f14)
  - [Les différentes étapes pour créer un jeu vidéo Diapo](https://docs.google.com/presentation/d/1QYttBEUXxV8z1SkGnxEV128GFIyC5pQs8lUqcrbQ_Z0/edit#slide=id.g260c9f4d6eb_0_32)
+ - [Analyse du marché d'un jeu vidéo](https://docs.google.com/presentation/d/1D7r2RBZOikhWSURqnx-An3YgcbL6Q-Y3CBuvGmEg3YE/edit#slide=id.g260c9f4d6eb_0_0)
  - [Atelier Idéation](https://github.com/g404-code-gaming/Doom-Like-Distanciel)
  - [Planification et GDD](https://docs.google.com/presentation/d/1PUgHhzh8BHJMqLmBzIhaqJTye0G08-8oOYiy6McQBa0/edit#slide=id.g260c9f4d6eb_0_0)
  - [LevelDesign](https://docs.google.com/presentation/d/1TVOG5mHLvqOHfiQdj5TcNJFE3cqA1Tn_7630uMcSi9M/edit#slide=id.g260c9f4d6eb_0_0)
  - [MethodoTest](https://docs.google.com/presentation/d/1wsStZfm1KTXvRUcWLJdZgWLLjbzykceKpTb6BW1n5-w/edit#slide=id.g260c9f4d6eb_0_0)
-
-
 
 # Contribuer
 
