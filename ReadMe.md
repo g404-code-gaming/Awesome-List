@@ -58,7 +58,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [Atelier PEGI (Kahoot!)](https://create.kahoot.it/share/atelier-pegi/04e7a851-f21d-4383-b710-853041826f14)
  - [Les différentes étapes pour créer un jeu vidéo Diapo](https://docs.google.com/presentation/d/1QYttBEUXxV8z1SkGnxEV128GFIyC5pQs8lUqcrbQ_Z0/edit#slide=id.g260c9f4d6eb_0_32)
  - [Analyse du marché d'un jeu vidéo](https://docs.google.com/presentation/d/1D7r2RBZOikhWSURqnx-An3YgcbL6Q-Y3CBuvGmEg3YE/edit#slide=id.g260c9f4d6eb_0_0)
- - [Atelier Idéation](https://github.com/g404-code-gaming/Doom-Like-Distanciel)
+ - [Atelier Idéation](https://docs.google.com/presentation/d/1ckUPDCtiEqG1isUnZLHKi6-qWBxeeDbdmxZebRYT8C0/edit#slide=id.g260c9f4d6eb_0_0) 
  - [Planification et GDD](https://docs.google.com/presentation/d/1PUgHhzh8BHJMqLmBzIhaqJTye0G08-8oOYiy6McQBa0/edit#slide=id.g260c9f4d6eb_0_0)
  - [LevelDesign](https://docs.google.com/presentation/d/1TVOG5mHLvqOHfiQdj5TcNJFE3cqA1Tn_7630uMcSi9M/edit#slide=id.g260c9f4d6eb_0_0)
  - [GameDesigner](https://docs.google.com/presentation/d/11CMG61NzNfgFLMnxdNecwpzMvLK9B9rLOK_le2NNXEM/edit#slide=id.g260c9f4d6eb_0_0)
