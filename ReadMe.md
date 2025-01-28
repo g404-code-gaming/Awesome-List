@@ -19,15 +19,16 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
 ## GDevelop
 
  - Introduction à l'outil [GDevelop](#GDevelop)
- - ### Présentiel
- - [SpaceShooter](https://github.com/g404-code-gaming/SpaceShooter_CodeGaming)
- - [Mini Zelda](https://github.com/g404-code-gaming/Zelda-Like-CodeGaming)
- - [GeometryDash](https://github.com/g404-code-gaming/GeometryDash_CodeGaming)
- - [Doom](https://github.com/g404-code-gaming/DoomLike_CodeGaming)
- - [BirdHunt](https://github.com/g404-code-gaming/BirdHunt)
- - [Typing Game](https://github.com/g404-code-gaming/TypingGame)
- - [DoodleJump](https://github.com/g404-code-gaming/Doodle-Jump-Like)
- - ### Distanciel
+### Présentiel
+ - [SpaceShooter (difficulté: 1)](https://github.com/g404-code-gaming/SpaceShooter_CodeGaming)
+ - [GeometryDash (difficulté: 1)](https://github.com/g404-code-gaming/GeometryDash_CodeGaming)
+ - [Mini Zelda (difficulté: 2)](https://github.com/g404-code-gaming/Zelda-Like-CodeGaming)
+ - [BirdHunt (difficulté: 2)](https://github.com/g404-code-gaming/BirdHunt)
+ - [Typing Game (difficulté: 2)](https://github.com/g404-code-gaming/TypingGame)
+ - [DoodleJump (difficulté: 2)](https://github.com/g404-code-gaming/Doodle-Jump-Like)
+ - [Doom (difficulté: 3)](https://github.com/g404-code-gaming/DoomLike_CodeGaming)
+
+ ### Distanciel
  - [SpaceShooter](https://github.com/g404-code-gaming/SpaceShooterDistanciel)
  - [Mini Zelda](https://github.com/g404-code-gaming/ZeldaDistanciel)
  - [GeometryDash](https://github.com/g404-code-gaming/GeometryDashDistanciel)
