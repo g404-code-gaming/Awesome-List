@@ -67,6 +67,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [MethodoTest](https://docs.google.com/presentation/d/1wsStZfm1KTXvRUcWLJdZgWLLjbzykceKpTb6BW1n5-w/edit#slide=id.g260c9f4d6eb_0_0)
  - [Impact de la narration Interactive](https://docs.google.com/presentation/d/17bLVi8QgX4ioTiN0U-0IX077lDgf3pctmnfcjhd6IGQ/edit#slide=id.g29fbc71d577_0_21)
  - [L'impact des Mods sur les jeux vidéo](https://docs.google.com/presentation/d/1Y_PWQPoMvTyGyPRKZbBct0pJZqt1uzRkg608LzSQH_k/edit)
+ - [GameDesigner 2.0](https://docs.google.com/presentation/d/1J281-4hROM9Q5Hw3xUc3r_uBqBQBrlZ9L6QvQ-ugdP8/edit?slide=id.g260c9f4d6eb_0_0#slide=id.g260c9f4d6eb_0_0)
 
 # Contribuer
 
