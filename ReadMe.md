@@ -44,6 +44,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
 ## Unity
 
  - [Cour Intro Unity](https://github.com/g404-code-gaming/Cour-Intro-Unity)
+ - [SickOrNot](https://github.com/g404-code-gaming/SickOrNot)
  - [MysteriesOfEgypt](https://github.com/g404-code-gaming/MysteriesOfEgypt)
  - [Bomberman2D](https://github.com/g404-code-gaming/Bomberman2D/tree/main/Création-Du-Jeu)
  - [TowerDefence](https://github.com/g404-code-gaming/TowerDefence)
@@ -53,6 +54,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
 - [MysteriesOfEgyptGame](https://github.com/g404-code-gaming/MysteriesOfEgyptGame)
 - [Bomberman2DGame](https://github.com/g404-code-gaming/Bomberman2DGame)
 - [TowerDefenceGame](https://github.com/g404-code-gaming/TowerDefenceGame)
+- [SickOrNotGame](https://github.com/g404-code-gaming/SickOrNotGame)
 
 ## Divers
 
@@ -68,6 +70,9 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [Impact de la narration Interactive](https://docs.google.com/presentation/d/17bLVi8QgX4ioTiN0U-0IX077lDgf3pctmnfcjhd6IGQ/edit#slide=id.g29fbc71d577_0_21)
  - [L'impact des Mods sur les jeux vidéo](https://docs.google.com/presentation/d/1Y_PWQPoMvTyGyPRKZbBct0pJZqt1uzRkg608LzSQH_k/edit)
  - [GameDesigner 2.0](https://docs.google.com/presentation/d/1J281-4hROM9Q5Hw3xUc3r_uBqBQBrlZ9L6QvQ-ugdP8/edit?slide=id.g260c9f4d6eb_0_0#slide=id.g260c9f4d6eb_0_0)
+
+## Semaine du jeu vidéo
+[Cour](https://github.com/g404-code-gaming/La-Semaine-du-Gaming/tree/main)
 
 # Contribuer
 
