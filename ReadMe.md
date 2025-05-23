@@ -72,7 +72,7 @@ Ce concept de liste organisée est inspiré de [Awesome List](https://github.com
  - [GameDesigner 2.0](https://docs.google.com/presentation/d/1J281-4hROM9Q5Hw3xUc3r_uBqBQBrlZ9L6QvQ-ugdP8/edit?slide=id.g260c9f4d6eb_0_0#slide=id.g260c9f4d6eb_0_0)
 
 ## Semaine du jeu vidéo
-[Cour](https://github.com/g404-code-gaming/La-Semaine-du-Gaming/tree/main)
+- [Cour](https://github.com/g404-code-gaming/La-Semaine-du-Gaming/tree/main)
 
 # Contribuer
 
